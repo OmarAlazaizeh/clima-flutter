@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a flutter application for geting the status of the weather, this app is from the Dart and flutter course by App Brewer.
+This is a flutter application for geting the status of the weather, this app is from the Dart and Flutter course by App Brewery.
 
 ## Our Goal
 
